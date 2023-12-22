@@ -1,3 +1,3 @@
-module testGoProject
+module myPersonalApi
 
 go 1.21
